@@ -1,4 +1,4 @@
-****Hi, I'm Shree Durga kesavan 👋  
+Hi, I'm Shree Durga kesavan 👋  
 I’m a developer interested in web development, AI, and building real-world projects.  
 I enjoy learning new technologies and creating useful applications.
 
