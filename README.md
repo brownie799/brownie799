@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Shree Durga kesavan 👋  
+I’m a developer interested in web development, AI, and building real-world projects.  
+I enjoy learning new technologies and creating useful applications.
 
-<!--
-**brownie799/brownie799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Skills & Tools
 
-Here are some ideas to get you started:
+Languages: Python, Java, C, JavaScript, HTML, CSS
+Frameworks / Libraries: TensorFlow, Flask, React (basics)
+Tools: Git, GitHub, VS Code
+Areas of Interest: AI, Data Science, Web Development, Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+Advanced machine learning models
+Backend development with APIs
+Cloud deployment
+
+⚡ Fun Fact
+I enjoy exploring new technologies and constantly upgrading my skills.
