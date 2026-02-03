@@ -4,7 +4,7 @@ I enjoy learning new technologies and creating useful applications.
 
 🛠 Skills & Tools
 
-Languages: Python, Java, C, JavaScript, HTML, CSS
+Languages: Python, C++, JavaScript, HTML, CSS
 
 Frameworks / Libraries: TensorFlow, Flask, React (basics)
 
