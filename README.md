@@ -8,15 +8,24 @@
 
 <br/>
 
-`DATA` &nbsp;·&nbsp; `MACHINE LEARNING` &nbsp;·&nbsp; `GENERATIVE AI` &nbsp;·&nbsp; `SYSTEMS ENGINEERING`
-
-<br/>
-
 [![GitHub](https://img.shields.io/badge/GITHUB-brownie799-0B0F14?style=for-the-badge&logo=github&logoColor=CBD5E1&labelColor=05070B)](https://github.com/brownie799)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0B0F14?style=for-the-badge&logo=linkedin&logoColor=CBD5E1&labelColor=05070B)](https://linkedin.com/in/your-linkedin)
 [![Email](https://img.shields.io/badge/EMAIL-contact-0B0F14?style=for-the-badge&logo=gmail&logoColor=CBD5E1&labelColor=05070B)](mailto:youremail@example.com)
 
 <br/>
+
+<!-- QUICK NAV — jumps to each dashboard panel -->
+<a href="#panel-identity"><img src="https://img.shields.io/badge/IDENTITY-0B0F14?style=flat-square&labelColor=05070B&color=A5B4FC"/></a>
+<a href="#panel-capability"><img src="https://img.shields.io/badge/CAPABILITY-0B0F14?style=flat-square&labelColor=05070B&color=38BDF8"/></a>
+<a href="#panel-pipeline"><img src="https://img.shields.io/badge/PIPELINE-0B0F14?style=flat-square&labelColor=05070B&color=34D399"/></a>
+<a href="#panel-stack"><img src="https://img.shields.io/badge/STACK-0B0F14?style=flat-square&labelColor=05070B&color=A5B4FC"/></a>
+<a href="#panel-genai"><img src="https://img.shields.io/badge/GENAI%20ENGINE-0B0F14?style=flat-square&labelColor=05070B&color=C084FC"/></a>
+<a href="#panel-capstone"><img src="https://img.shields.io/badge/CAPSTONE-0B0F14?style=flat-square&labelColor=05070B&color=FB923C"/></a>
+<a href="#panel-loop"><img src="https://img.shields.io/badge/CONTROL%20LOOP-0B0F14?style=flat-square&labelColor=05070B&color=38BDF8"/></a>
+<a href="#panel-radar"><img src="https://img.shields.io/badge/RADAR-0B0F14?style=flat-square&labelColor=05070B&color=34D399"/></a>
+<a href="#panel-telemetry"><img src="https://img.shields.io/badge/TELEMETRY-0B0F14?style=flat-square&labelColor=05070B&color=A5B4FC"/></a>
+
+<br/><br/>
 
 ```
 ● SYSTEM ONLINE     DATA CORE ▮▮▮▮▮▮▮▮▮▮  AI ENGINE ▮▮▮▮▮▮▮▮▮▮  RESEARCH ACTIVE
@@ -26,11 +35,12 @@
 
 <br/>
 
+<a name="panel-identity"></a>
 ## `01 /` IDENTITY
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="65%" valign="top">
 
 **DATA × AI × ENGINEERING**
 
@@ -43,127 +53,128 @@ DATA → INSIGHT → MODEL → INTELLIGENCE → APPLICATION → DEPLOYMENT
 ```
 
 </td>
-</tr>
-</table>
+<td width="35%" valign="top">
 
-<br/>
-
-<div align="center">
-
-### AI COMMAND CORE
+**AI COMMAND CORE**
 
 | MODULE | STATUS |
 |:--|:--:|
-| DATA | ![](https://img.shields.io/badge/●-ONLINE-38BDF8?style=flat-square&labelColor=0B0F14) |
-| ML | ![](https://img.shields.io/badge/●-ONLINE-34D399?style=flat-square&labelColor=0B0F14) |
-| GENAI | ![](https://img.shields.io/badge/●-ONLINE-C084FC?style=flat-square&labelColor=0B0F14) |
-| NLP | ![](https://img.shields.io/badge/●-ONLINE-34D399?style=flat-square&labelColor=0B0F14) |
-| CV | ![](https://img.shields.io/badge/●-ONLINE-34D399?style=flat-square&labelColor=0B0F14) |
-| API | ![](https://img.shields.io/badge/●-ONLINE-FB923C?style=flat-square&labelColor=0B0F14) |
-| SYSTEMS | ![](https://img.shields.io/badge/●-ONLINE-FB923C?style=flat-square&labelColor=0B0F14) |
+| DATA | ![](https://img.shields.io/badge/●-38BDF8?style=flat-square&labelColor=0B0F14) |
+| ML | ![](https://img.shields.io/badge/●-34D399?style=flat-square&labelColor=0B0F14) |
+| GENAI | ![](https://img.shields.io/badge/●-C084FC?style=flat-square&labelColor=0B0F14) |
+| NLP | ![](https://img.shields.io/badge/●-34D399?style=flat-square&labelColor=0B0F14) |
+| CV | ![](https://img.shields.io/badge/●-34D399?style=flat-square&labelColor=0B0F14) |
+| SYSTEMS | ![](https://img.shields.io/badge/●-FB923C?style=flat-square&labelColor=0B0F14) |
 
-`MODE: BUILD`   ·   `DOMAIN: DATA + AI`   ·   `APPROACH: RESEARCH → SYSTEM`
+`MODE: BUILD` · `APPROACH: RESEARCH → SYSTEM`
 
-</div>
+</td>
+</tr>
+</table>
+
+<div align="right"><a href="#readme-top"><sub>↑ back to top</sub></a></div>
 
 <br/>
 
+<a name="panel-capability"></a>
 ## `02 /` CAPABILITY DASHBOARD
+
+<sub>Click a panel to expand — each one lists the underlying skills.</sub>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/DATA_CORE-38BDF8?style=for-the-badge&labelColor=0B0F14)
+<details open>
+<summary><b>🟦 DATA CORE</b> <img src="https://img.shields.io/badge/skills-8-0B0F14?style=flat-square&labelColor=0B0F14&color=38BDF8"/></summary>
+<br/>
 
-```
-SQL
-Data Cleaning
-EDA
-ETL / ELT
-Data Pipelines
-Data Analytics
-Feature Engineering
-Visualization
-```
+| Skill | Level |
+|:--|:--|
+| SQL | ▰▰▰▰▰▰▰▰▱▱ |
+| Data Cleaning | ▰▰▰▰▰▰▰▱▱▱ |
+| EDA | ▰▰▰▰▰▰▰▱▱▱ |
+| ETL / ELT | ▰▰▰▰▰▰▱▱▱▱ |
+| Data Pipelines | ▰▰▰▰▰▰▱▱▱▱ |
+| Feature Engineering | ▰▰▰▰▰▰▱▱▱▱ |
+| Visualization | ▰▰▰▰▰▰▰▱▱▱ |
+
+</details>
 
 </td>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/AI%20%2F%20ML%20CORE-34D399?style=for-the-badge&labelColor=0B0F14)
+<details open>
+<summary><b>🟩 AI / ML CORE</b> <img src="https://img.shields.io/badge/skills-8-0B0F14?style=flat-square&labelColor=0B0F14&color=34D399"/></summary>
+<br/>
 
-```
-Machine Learning
-Deep Learning
-NLP
-Computer Vision
-Prediction
-Forecasting
-Optimization
-Recommendation Systems
-```
+| Skill | Level |
+|:--|:--|
+| Machine Learning | ▰▰▰▰▰▰▰▱▱▱ |
+| Deep Learning | ▰▰▰▰▰▰▱▱▱▱ |
+| NLP | ▰▰▰▰▰▰▱▱▱▱ |
+| Computer Vision | ▰▰▰▰▰▱▱▱▱▱ |
+| Forecasting | ▰▰▰▰▰▱▱▱▱▱ |
+| Optimization | ▰▰▰▰▰▱▱▱▱▱ |
+| Recommendation Sys. | ▰▰▰▰▰▱▱▱▱▱ |
+
+</details>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/GENERATIVE%20AI%20CORE-C084FC?style=for-the-badge&labelColor=0B0F14)
+<details open>
+<summary><b>🟪 GENERATIVE AI CORE</b> <img src="https://img.shields.io/badge/skills-7-0B0F14?style=flat-square&labelColor=0B0F14&color=C084FC"/></summary>
+<br/>
 
-```
-LLMs
-RAG
-Embeddings
-Vector Search
-Prompt Engineering
-AI Agents
-Tool Calling
-Semantic Retrieval
-```
+| Skill | Level |
+|:--|:--|
+| LLMs | ▰▰▰▰▰▰▰▱▱▱ |
+| RAG | ▰▰▰▰▰▰▱▱▱▱ |
+| Embeddings | ▰▰▰▰▰▰▱▱▱▱ |
+| Vector Search | ▰▰▰▰▰▱▱▱▱▱ |
+| Prompt Engineering | ▰▰▰▰▰▰▰▱▱▱ |
+| AI Agents | ▰▰▰▰▰▱▱▱▱▱ |
+| Tool Calling | ▰▰▰▰▰▱▱▱▱▱ |
+
+</details>
 
 </td>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/ENGINEERING%20CORE-FB923C?style=for-the-badge&labelColor=0B0F14)
+<details open>
+<summary><b>🟧 ENGINEERING CORE</b> <img src="https://img.shields.io/badge/skills-7-0B0F14?style=flat-square&labelColor=0B0F14&color=FB923C"/></summary>
+<br/>
 
-```
-Python
-FastAPI
-REST APIs
-Docker
-Git
-CI / CD
-Cloud
-AI Architecture
-```
+| Skill | Level |
+|:--|:--|
+| Python | ▰▰▰▰▰▰▰▰▱▱ |
+| FastAPI | ▰▰▰▰▰▰▱▱▱▱ |
+| REST APIs | ▰▰▰▰▰▰▰▱▱▱ |
+| Docker | ▰▰▰▰▰▰▱▱▱▱ |
+| Git | ▰▰▰▰▰▰▰▱▱▱ |
+| CI / CD | ▰▰▰▰▰▱▱▱▱▱ |
+| Cloud | ▰▰▰▰▰▱▱▱▱▱ |
+
+</details>
 
 </td>
 </tr>
 </table>
 
+<div align="right"><a href="#readme-top"><sub>↑ back to top</sub></a></div>
+
 <br/>
 
+<a name="panel-pipeline"></a>
 ## `03 /` DATA INTELLIGENCE PIPELINE
 
 <div align="center">
 
-```
-   RAW DATA
-      │
-   INGESTION
-      │
-   CLEANING
-      │
-   ANALYTICS
-      │
-   FEATURES
-      │
-   ML / DL
-      │
-GENERATIVE AI
-      │
-AI APPLICATION
-```
+| RAW DATA | → | INGESTION | → | CLEANING | → | ANALYTICS | → | FEATURES | → | ML / DL | → | GENAI | → | APPLICATION |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
 **`DATA → SIGNAL → INTELLIGENCE`**
 
@@ -173,9 +184,15 @@ Strong AI systems depend on reliable data, meaningful features, appropriate
 models, and a clear connection between the model and the real-world problem
 it is meant to solve.
 
+<div align="right"><a href="#readme-top"><sub>↑ back to top</sub></a></div>
+
 <br/>
 
+<a name="panel-stack"></a>
 ## `04 /` TECHNOLOGY MATRIX
+
+<details open>
+<summary><b>Expand full stack</b></summary>
 
 <div align="center">
 
@@ -197,19 +214,26 @@ it is meant to solve.
 
 </div>
 
+</details>
+
+<div align="right"><a href="#readme-top"><sub>↑ back to top</sub></a></div>
+
 <br/>
 
 <div align="center">
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:C084FC,100:34D399&height=4"/>
 </div>
 
+<a name="panel-genai"></a>
 ## `05 /` GENERATIVE AI COMMAND ENGINE
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/RETRIEVAL%20ENGINE-38BDF8?style=for-the-badge&labelColor=0B0F14)
+<details open>
+<summary><b>RETRIEVAL ENGINE</b> <img src="https://img.shields.io/badge/-38BDF8?style=flat-square"/></summary>
+<br/>
 
 ```
 Documents
@@ -225,10 +249,14 @@ Semantic Search
 Relevant Context
 ```
 
+</details>
+
 </td>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/GENERATION%20ENGINE-C084FC?style=for-the-badge&labelColor=0B0F14)
+<details open>
+<summary><b>GENERATION ENGINE</b> <img src="https://img.shields.io/badge/-C084FC?style=flat-square"/></summary>
+<br/>
 
 ```
 User Query + Context
@@ -242,6 +270,8 @@ User Query + Context
      Response
 ```
 
+</details>
+
 </td>
 </tr>
 </table>
@@ -252,17 +282,16 @@ User Query + Context
 
 </div>
 
+<div align="right"><a href="#readme-top"><sub>↑ back to top</sub></a></div>
+
 <br/>
 
 <div align="center">
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:FB923C,100:38BDF8&height=4"/>
 </div>
 
+<a name="panel-capstone"></a>
 ## `06 /` FEATURED SYSTEM — CAPSTONE
-
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
 
 **AI-POWERED INTELLIGENT ASSISTANT**
 ![](https://img.shields.io/badge/CAPSTONE%20SYSTEM-C084FC?style=flat-square&labelColor=0B0F14)
@@ -271,6 +300,10 @@ User Query + Context
 
 An end-to-end AI application focused on context-aware interaction, knowledge
 retrieval, and intelligent response generation.
+
+<table width="100%">
+<tr>
+<td width="45%" valign="top">
 
 ```
    USER
@@ -281,16 +314,19 @@ retrieval, and intelligent response generation.
     │
  AI ENGINE
     │
-LLM / RAG / EMBEDDINGS / KNOWLEDGE
+LLM / RAG / EMBEDDINGS
     │
  RESPONSE
 ```
 
 </td>
-</tr>
-</table>
+<td width="55%" valign="top">
 
-| MODULE | FUNCTION |
+<details open>
+<summary><b>Core modules</b></summary>
+<br/>
+
+| Module | Function |
 |:--|:--|
 | Data Layer | Information processing |
 | Retrieval | Knowledge discovery |
@@ -299,17 +335,23 @@ LLM / RAG / EMBEDDINGS / KNOWLEDGE
 | API | Application integration |
 | Evaluation | Quality measurement |
 
+</details>
+
+</td>
+</tr>
+</table>
+
+<div align="right"><a href="#readme-top"><sub>↑ back to top</sub></a></div>
+
 <br/>
 
+<a name="panel-loop"></a>
 ## `07 /` ENGINEERING CONTROL LOOP
 
 <div align="center">
 
-```
-PROBLEM → DATA → DESIGN → BUILD → EVALUATE → DEPLOY → IMPROVE
-   ▲                                                       │
-   └───────────────────────────────────────────────────────┘
-```
+| PROBLEM | → | DATA | → | DESIGN | → | BUILD | → | EVALUATE | → | DEPLOY | → | IMPROVE | ↺ |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
 **Problem-first engineering.**
 
@@ -319,15 +361,20 @@ The model is one component of a larger system. The appropriate solution
 depends on data, constraints, architecture, evaluation, infrastructure, and
 the expected real-world outcome.
 
+<div align="right"><a href="#readme-top"><sub>↑ back to top</sub></a></div>
+
 <br/>
 
+<a name="panel-radar"></a>
 ## `08 /` RESEARCH RADAR
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-![](https://img.shields.io/badge/DATA-38BDF8?style=flat-square&labelColor=0B0F14)
+<details open>
+<summary><b>🟦 DATA</b></summary>
+<br/>
 
 ```
 Data Engineering
@@ -337,10 +384,14 @@ SQL
 Feature Engineering
 ```
 
+</details>
+
 </td>
 <td width="33%" valign="top">
 
-![](https://img.shields.io/badge/INTELLIGENCE-34D399?style=flat-square&labelColor=0B0F14)
+<details open>
+<summary><b>🟩 INTELLIGENCE</b></summary>
+<br/>
 
 ```
 Machine Learning
@@ -350,10 +401,14 @@ Computer Vision
 Optimization
 ```
 
+</details>
+
 </td>
 <td width="33%" valign="top">
 
-![](https://img.shields.io/badge/GENERATIVE-C084FC?style=flat-square&labelColor=0B0F14)
+<details open>
+<summary><b>🟪 GENERATIVE</b></summary>
+<br/>
 
 ```
 LLMs
@@ -363,36 +418,24 @@ Vector Search
 AI Applications
 ```
 
+</details>
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-`CURRENT FOCUS` — not academic publications, active areas of exploration
+`CURRENT FOCUS` — active areas of exploration, not academic publications
 
 </div>
 
-<br/>
-
-## `09 /` CURRENT MODE
-
-<div align="center">
-
-```
-CURRENT MODE: BUILDING
-
-DATA SYSTEMS      ●
-ML SYSTEMS        ●
-GENAI SYSTEMS     ●
-AI APPLICATIONS   ●
-```
-
-</div>
+<div align="right"><a href="#readme-top"><sub>↑ back to top</sub></a></div>
 
 <br/>
 
-## `10 /` GITHUB TELEMETRY
+<a name="panel-telemetry"></a>
+## `09 /` GITHUB TELEMETRY
 
 <div align="center">
 
@@ -402,6 +445,8 @@ AI APPLICATIONS   ●
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=brownie799&theme=transparent&hide_border=true&ring=A5B4FC&fire=A5B4FC&currStreakLabel=CBD5E1&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0"/>
 
 </div>
+
+<div align="right"><a href="#readme-top"><sub>↑ back to top</sub></a></div>
 
 <br/>
 
