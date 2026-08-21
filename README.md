@@ -54,13 +54,13 @@ DATA → INSIGHT → MODEL → INTELLIGENCE → APPLICATION → DEPLOYMENT
 
 | MODULE | STATUS |
 |:--|:--:|
-| DATA | ● ONLINE |
-| ML | ● ONLINE |
-| GENAI | ● ONLINE |
-| NLP | ● ONLINE |
-| CV | ● ONLINE |
-| API | ● ONLINE |
-| SYSTEMS | ● ONLINE |
+| DATA | ![](https://img.shields.io/badge/●-ONLINE-38BDF8?style=flat-square&labelColor=0B0F14) |
+| ML | ![](https://img.shields.io/badge/●-ONLINE-34D399?style=flat-square&labelColor=0B0F14) |
+| GENAI | ![](https://img.shields.io/badge/●-ONLINE-C084FC?style=flat-square&labelColor=0B0F14) |
+| NLP | ![](https://img.shields.io/badge/●-ONLINE-34D399?style=flat-square&labelColor=0B0F14) |
+| CV | ![](https://img.shields.io/badge/●-ONLINE-34D399?style=flat-square&labelColor=0B0F14) |
+| API | ![](https://img.shields.io/badge/●-ONLINE-FB923C?style=flat-square&labelColor=0B0F14) |
+| SYSTEMS | ![](https://img.shields.io/badge/●-ONLINE-FB923C?style=flat-square&labelColor=0B0F14) |
 
 `MODE: BUILD`   ·   `DOMAIN: DATA + AI`   ·   `APPROACH: RESEARCH → SYSTEM`
 
@@ -74,7 +74,7 @@ DATA → INSIGHT → MODEL → INTELLIGENCE → APPLICATION → DEPLOYMENT
 <tr>
 <td width="50%" valign="top">
 
-**DATA CORE**
+![](https://img.shields.io/badge/DATA_CORE-38BDF8?style=for-the-badge&labelColor=0B0F14)
 
 ```
 SQL
@@ -90,7 +90,7 @@ Visualization
 </td>
 <td width="50%" valign="top">
 
-**AI / ML CORE**
+![](https://img.shields.io/badge/AI%20%2F%20ML%20CORE-34D399?style=for-the-badge&labelColor=0B0F14)
 
 ```
 Machine Learning
@@ -108,7 +108,7 @@ Recommendation Systems
 <tr>
 <td width="50%" valign="top">
 
-**GENERATIVE AI CORE**
+![](https://img.shields.io/badge/GENERATIVE%20AI%20CORE-C084FC?style=for-the-badge&labelColor=0B0F14)
 
 ```
 LLMs
@@ -124,7 +124,7 @@ Semantic Retrieval
 </td>
 <td width="50%" valign="top">
 
-**ENGINEERING CORE**
+![](https://img.shields.io/badge/ENGINEERING%20CORE-FB923C?style=for-the-badge&labelColor=0B0F14)
 
 ```
 Python
@@ -179,19 +179,19 @@ it is meant to solve.
 
 <div align="center">
 
-**PROGRAMMING**
+![](https://img.shields.io/badge/PROGRAMMING-A5B4FC?style=flat-square&labelColor=0B0F14)
 
 ![Python](https://skillicons.dev/icons?i=python,cpp,java,js,ts&theme=dark)
 
-**DATA**
+![](https://img.shields.io/badge/DATA-38BDF8?style=flat-square&labelColor=0B0F14)
 
 ![Data](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark)
 
-**AI / ML**
+![](https://img.shields.io/badge/AI%20%2F%20ML-34D399?style=flat-square&labelColor=0B0F14)
 
 ![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark)
 
-**ENGINEERING**
+![](https://img.shields.io/badge/ENGINEERING-FB923C?style=flat-square&labelColor=0B0F14)
 
 ![Engineering](https://skillicons.dev/icons?i=fastapi,flask,docker,git,githubactions,linux,aws,azure&theme=dark)
 
@@ -199,13 +199,17 @@ it is meant to solve.
 
 <br/>
 
+<div align="center">
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:C084FC,100:34D399&height=4"/>
+</div>
+
 ## `05 /` GENERATIVE AI COMMAND ENGINE
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**RETRIEVAL ENGINE**
+![](https://img.shields.io/badge/RETRIEVAL%20ENGINE-38BDF8?style=for-the-badge&labelColor=0B0F14)
 
 ```
 Documents
@@ -224,7 +228,7 @@ Relevant Context
 </td>
 <td width="50%" valign="top">
 
-**GENERATION ENGINE**
+![](https://img.shields.io/badge/GENERATION%20ENGINE-C084FC?style=for-the-badge&labelColor=0B0F14)
 
 ```
 User Query + Context
@@ -244,11 +248,15 @@ User Query + Context
 
 <div align="center">
 
-`LLM` · `RAG` · `EMBEDDINGS` · `VECTOR SEARCH` · `AI AGENTS` · `TOOLS`
+![](https://img.shields.io/badge/LLM-C084FC?style=flat-square&labelColor=0B0F14) ![](https://img.shields.io/badge/RAG-C084FC?style=flat-square&labelColor=0B0F14) ![](https://img.shields.io/badge/EMBEDDINGS-A5B4FC?style=flat-square&labelColor=0B0F14) ![](https://img.shields.io/badge/VECTOR%20SEARCH-A5B4FC?style=flat-square&labelColor=0B0F14) ![](https://img.shields.io/badge/AI%20AGENTS-38BDF8?style=flat-square&labelColor=0B0F14) ![](https://img.shields.io/badge/TOOLS-38BDF8?style=flat-square&labelColor=0B0F14)
 
 </div>
 
 <br/>
+
+<div align="center">
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:FB923C,100:38BDF8&height=4"/>
+</div>
 
 ## `06 /` FEATURED SYSTEM — CAPSTONE
 
@@ -257,9 +265,9 @@ User Query + Context
 <td width="100%" valign="top">
 
 **AI-POWERED INTELLIGENT ASSISTANT**
-`CAPSTONE SYSTEM`
+![](https://img.shields.io/badge/CAPSTONE%20SYSTEM-C084FC?style=flat-square&labelColor=0B0F14)
 
-`DATA` · `NLP` · `LLM` · `RAG` · `FASTAPI`
+![](https://img.shields.io/badge/DATA-38BDF8?style=flat-square&labelColor=0B0F14) ![](https://img.shields.io/badge/NLP-34D399?style=flat-square&labelColor=0B0F14) ![](https://img.shields.io/badge/LLM-C084FC?style=flat-square&labelColor=0B0F14) ![](https://img.shields.io/badge/RAG-C084FC?style=flat-square&labelColor=0B0F14) ![](https://img.shields.io/badge/FASTAPI-FB923C?style=flat-square&labelColor=0B0F14)
 
 An end-to-end AI application focused on context-aware interaction, knowledge
 retrieval, and intelligent response generation.
@@ -319,7 +327,7 @@ the expected real-world outcome.
 <tr>
 <td width="33%" valign="top">
 
-**DATA**
+![](https://img.shields.io/badge/DATA-38BDF8?style=flat-square&labelColor=0B0F14)
 
 ```
 Data Engineering
@@ -332,7 +340,7 @@ Feature Engineering
 </td>
 <td width="33%" valign="top">
 
-**INTELLIGENCE**
+![](https://img.shields.io/badge/INTELLIGENCE-34D399?style=flat-square&labelColor=0B0F14)
 
 ```
 Machine Learning
@@ -345,7 +353,7 @@ Optimization
 </td>
 <td width="33%" valign="top">
 
-**GENERATIVE**
+![](https://img.shields.io/badge/GENERATIVE-C084FC?style=flat-square&labelColor=0B0F14)
 
 ```
 LLMs
