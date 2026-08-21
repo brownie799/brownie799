@@ -1,47 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070A0F,50:111827,100:1E293B&height=200&section=header&text=SHREE%20DURGA%20K&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36"/>
+<!-- ========================================================= -->
+<!--                 SHREE DURGA K — AI LAB                    -->
+<!--          GLASS DASHBOARD × DATA × AI × RESEARCH           -->
+<!-- ========================================================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=C7D2FE&center=true&vCenter=true&width=900&lines=DATA+%7C+AI+%7C+MACHINE+LEARNING;GENERATIVE+AI+ENGINEER;LLMs+%7C+RAG+%7C+AI+AGENTS;NLP+%7C+COMPUTER+VISION;DATA-DRIVEN+INTELLIGENT+SYSTEMS"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070B,50:111827,100:1E293B&height=190&section=header&text=SHREE%20DURGA%20K&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=C7D2FE&center=true&vCenter=true&width=900&lines=DATA+%2B+AI+ENGINEER;MACHINE+LEARNING+%7C+GENERATIVE+AI;LLMs+%7C+RAG+%7C+AI+AGENTS;NLP+%7C+COMPUTER+VISION;BUILDING+DATA-DRIVEN+INTELLIGENT+SYSTEMS"/>
 
 <br>
 
-<a href="https://github.com/brownie799">
-<img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=F8FAFC"/>
-</a>
+<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-111827?style=for-the-badge&labelColor=0B0F14&color=1F2937"/>
+<img src="https://img.shields.io/badge/DATA%20%2B%20AI-ENGINEERING-111827?style=for-the-badge&labelColor=0B0F14&color=1F2937"/>
+<img src="https://img.shields.io/badge/RESEARCH-FOCUSED-111827?style=for-the-badge&labelColor=0B0F14&color=1F2937"/>
 
 <br><br>
 
-<code>DATA</code>
-&nbsp;•&nbsp;
-<code>AI</code>
-&nbsp;•&nbsp;
-<code>MACHINE LEARNING</code>
-&nbsp;•&nbsp;
-<code>GENERATIVE AI</code>
-&nbsp;•&nbsp;
-<code>ENGINEERING</code>
+<a href="https://github.com/brownie799">
+<img src="https://img.shields.io/badge/GITHUB-0B0F14?style=flat-square&logo=github&logoColor=F8FAFC"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=flat-square&logo=linkedin&logoColor=F8FAFC"/>
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+<table>
+<tr>
 
-## DATA IS THE FOUNDATION. AI IS THE INTELLIGENCE.
+<td width="65%" valign="top">
 
-</div>
+## `PROFILE`
 
-I am interested in building **data-driven intelligent systems** that combine
-data engineering, analytics, machine learning, generative AI and software
-engineering.
+### DATA × AI × ENGINEERING
 
-My focus is on transforming **raw data into useful insights, models and
-real-world intelligent applications**.
+I build **data-driven intelligent systems** across the complete journey from
+raw information to deployed AI applications.
+
+My interests sit at the intersection of:
+
+`Data Engineering`  
+`Data Analytics`  
+`Machine Learning`  
+`Generative AI`  
+`Intelligent Systems`
+
+My approach:
 
 ```text
-DATA → INSIGHT → MODEL → INTELLIGENCE → APPLICATION
+UNDERSTAND DATA
+      ↓
+EXTRACT SIGNAL
+      ↓
+BUILD MODEL
+      ↓
+ADD INTELLIGENCE
+      ↓
+ENGINEER SYSTEM
+      ↓
+DEPLOY
